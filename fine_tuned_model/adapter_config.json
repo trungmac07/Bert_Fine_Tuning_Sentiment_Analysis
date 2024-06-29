@@ -16,8 +16,6 @@
   "megatron_core": "megatron.core",
   "modules_to_save": [
     "classifier",
-    "score",
-    "classifier",
     "score"
   ],
   "peft_type": "LORA",
