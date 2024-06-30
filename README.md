@@ -14,14 +14,18 @@ Sentiment analysis, also known as opinion mining, involves determining the emoti
 
 Additionally, the project includes a user-friendly GUI application that allows users to easily analyze the sentiment of an input sentence.
 
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="resources/positive.png" alt="Image 1" style="width: 100%;">
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="resources/negative.png" alt="Image 2" style="width: 100%;">
-    </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="resources/positive.png" alt="Image 1" width="500px" /><br />
+      <b>Positive</b>
+    </td>
+    <td align="center">
+      <img src="resources/negative.png" alt="Image 2" width="500px" /><br />
+      <b>Negetive</b>
+    </td>
+  </tr>
+</table>
 
 
 The primary goal of this model is to classify reviews as positive or negative, helping businesses and individuals understand customer feedback and opinions more efficiently and accurately.
