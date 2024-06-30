@@ -30,7 +30,7 @@ Additionally, the project includes a simple GUI application that allows users to
 
 The primary goal of this model is to classify reviews as positive or negative, helping businesses and individuals understand customer feedback and opinions more efficiently and accurately.
 
-Model use dataset of IMDB movie reviews: [IMDB Dataset](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis)
+Model use dataset of IMDB movie reviews: [IMDB Dataset](https://huggingface.co/datasets/stanfordnlp/imdb)
 
 Based BERT Model: [BERT Model](https://huggingface.co/google-bert/bert-base-cased)
 
