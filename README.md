@@ -22,7 +22,7 @@ Additionally, the project includes a user-friendly GUI application that allows u
     </td>
     <td align="center">
       <img src="resources/negative.png" alt="Image 2" width="500px" /><br />
-      <b>Negetive</b>
+      <b>Negative</b>
     </td>
   </tr>
 </table>
