@@ -12,7 +12,7 @@ This project features a fine-tuned BERT model (Bidirectional Encoder Representat
 
 Sentiment analysis, also known as opinion mining, involves determining the emotional tone behind a series of words to understand the attitudes, opinions, and emotions expressed in an online mention. My BERT model excels in understanding emotions expressed in text, making it reliable and effective for a wide range of uses with high accuracy.
 
-Additionally, the project includes a user-friendly GUI application that allows users to easily analyze the sentiment of an input sentence.
+Additionally, the project includes a simple GUI application that allows users to easily analyze the sentiment of an input sentence.
 
 <table align="center">
   <tr>
