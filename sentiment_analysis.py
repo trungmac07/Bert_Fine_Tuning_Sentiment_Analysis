@@ -8,7 +8,7 @@ from model import *
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 tokenizer, model = get_fine_tuned_model("fine_tuned_model", device = device)
 
-bg_color = "#0099AA"
+bg_color = "#7CCFCF"
 
 
 # Function to analyze the sentiment (for demo purposes, it randomly decides positive or negative)
@@ -36,7 +36,7 @@ root.geometry("600x500")
 root.configure(bg=bg_color)
 
 # Create a label for instructions
-instruction_label = tk.Label(root, text="Enter text to analyze sentiment:", bg=bg_color, fg="white", font=("Arial", 22))
+instruction_label = tk.Label(root, text="Enter text to analyze sentiment:", bg=bg_color, fg="black", font=("Arial", 22))
 instruction_label.pack(pady=10)
 
 # Create a text box for user input
