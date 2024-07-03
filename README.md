@@ -12,21 +12,25 @@ This project features a fine-tuned BERT model (Bidirectional Encoder Representat
 
 Sentiment analysis, also known as opinion mining, involves determining the emotional tone behind a series of words to understand the attitudes, opinions, and emotions expressed in an online mention. My BERT model excels in understanding emotions expressed in text, making it reliable and effective for a wide range of uses with high accuracy.
 
-Additionally, the project includes a user-friendly GUI application that allows users to easily analyze the sentiment of an input sentence.
+Additionally, the project includes a simple GUI application that allows users to easily analyze the sentiment of an input sentence.
 
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; padding: 10px;">
-        <img src="resources/positive.png" alt="Image 1" style="width: 100%;">
-    </div>
-    <div style="flex: 1; padding: 10px;">
-        <img src="resources/negative.png" alt="Image 2" style="width: 100%;">
-    </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="resources/positive.png" alt="Image 1" width="500px" /><br />
+      <b>Positive</b>
+    </td>
+    <td align="center">
+      <img src="resources/negative.png" alt="Image 2" width="500px" /><br />
+      <b>Negative</b>
+    </td>
+  </tr>
+</table>
 
 
 The primary goal of this model is to classify reviews as positive or negative, helping businesses and individuals understand customer feedback and opinions more efficiently and accurately.
 
-Model use dataset of IMDB movie reviews: [IMDB Dataset](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis)
+Model use dataset of IMDB movie reviews: [IMDB Dataset](https://huggingface.co/datasets/stanfordnlp/imdb)
 
 Based BERT Model: [BERT Model](https://huggingface.co/google-bert/bert-base-cased)
 
